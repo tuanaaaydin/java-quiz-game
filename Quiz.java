@@ -28,6 +28,16 @@ public class Quiz {
         }
 
         System.out.println("Du hast " + punkte + " von " + fragen.length + " Punkten!");
+
+        // Highscore-Bewertung
+        if (punkte == fragen.length) {
+            System.out.println("Perfekt! Neuer Highscore!");
+        } else if (punkte >= fragen.length / 2) {
+            System.out.println("Gut gemacht!");
+        } else {
+            System.out.println("Weiter üben!");
+        }
+
         scanner.close();
     }
 }
