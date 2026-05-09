@@ -14,7 +14,8 @@ public class Quiz {
         int punkte = 0;
 
         System.out.println("=== Willkommen beim Mathe-Quiz! ===");
-
+        System.out.println("------------------------------------"); // neu
+        
         for (QuizFrage frage : fragen) {
             System.out.print(frage.getFrageText() + " ");
             int antwort = scanner.nextInt();
