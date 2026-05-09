@@ -13,7 +13,11 @@ public class Quiz {
 
         int punkte = 0;
 
+        // alt:
         System.out.println("=== Willkommen beim Zahlen-Quiz! ===");
+
+        // neu:
+        System.out.println("=== Willkommen beim Mathe-Quiz! ===");
 
         for (Frage frage : fragen) {
             System.out.print(frage.getFrageText() + " ");
