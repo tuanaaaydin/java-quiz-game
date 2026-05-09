@@ -14,7 +14,7 @@ Link: https://github.com/tuanaaaydin/java-quiz-game
 
 Screenshot Repository:
 
-<img width="1440" height="713" alt="Bildschirmfoto 2026-05-09 um 19 33 29" src="https://github.com/user-attachments/assets/be03bf68-9b45-49b3-876b-916f9381dfe4" />
+<img width="1440" height="703" alt="Bildschirmfoto 2026-05-09 um 20 36 13" src="https://github.com/user-attachments/assets/c416153a-05e6-49e1-82af-23619b317127" />
 
 
 ---
